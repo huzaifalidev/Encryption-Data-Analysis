@@ -1,0 +1,5 @@
+Algorithm,Encryption Time (s),Decryption Time (s),Quantum-Resistant,Best Use Case,Ciphertext Size,Key Size (bits)
+AES,6e-05,2.9e-05,False,Bulk Data Encryption,1423.2,128.0
+Kyber,0.00366,0.003177,True,Post-Quantum TLS,1515.8,1536.0
+McEliece,0.005744,0.008902,True,Post-Quantum Secure Messaging,2548.1,1357824.0
+RSA,0.001914,0.00569,False,Secure Key Exchange,1671.8,2048.0
