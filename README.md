@@ -1,6 +1,6 @@
 # Encryption-Data-Analysis
 
-# TO run 
+# To run 
 
 1. Project.py
 2. Dashboard.py
